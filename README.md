@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rodrigosevenmmt
+- 👀 I’m interested in Java code
+- 🌱 I’m currently learning partner and architecture 
+- 💞️ I’m looking to collaborate on Sevenmmt enterprise
+- 📫 How to reach me: rodrigo.souza@sevenmmt.com
